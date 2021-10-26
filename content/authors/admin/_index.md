@@ -74,4 +74,4 @@ I am a Ph.D. Candidate in Economics at Boston University.
 
 My research interests fall into the fields of development economics, labor economics and political economy. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/search/personal?path=%2F&preview=id%3ACZqpKVprQCAAAAAAAAHCwQ&query=cv&search_session_id=39347370952627798530960908652601&search_token=Vv1YVegZJTUcbgzd2qxooNdlCqL0htWdkon7dg%2FoDQg%3D" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/55v4tnmgd2lwzyn/CV_GuidaJohnson.pdf?dl=0" "newtab" >}}resumé{{< /staticref >}}.
