@@ -21,6 +21,7 @@ interests:
 - Development Economics
 - Labor Economics
 - Political Economy
+- Applied Economics
 
 # Education to show in About widget
 education:
