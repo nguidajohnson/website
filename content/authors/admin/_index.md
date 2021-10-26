@@ -74,4 +74,5 @@ I am a Ph.D. Candidate in Economics at Boston University.
 
 My research interests fall into the fields of development economics, labor economics and political economy. 
 
-#### {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#### {{
+# < icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
