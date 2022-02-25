@@ -75,4 +75,6 @@ I am a Ph.D. Candidate in Economics at Boston University.
 
 My research interests fall into the fields of development economics, labor economics and political economy. 
 
+Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
+
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnson.pdf" "newtab" %}} CV{{% /staticref %}}.
