@@ -1,5 +1,5 @@
 ---
-widget: research
+widget: pages
 
 # Summary for listings and search engines
 summary: Informality and Development: the Role of Infrastructure in Reducing Self-Employment.
