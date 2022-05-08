@@ -1,33 +1,38 @@
 ---
+widget: pages
+
 title: Working Papers
 
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+headless: true
 
-# Link this post with a project
-projects: []
+# Order that this section appears on the page.
+weight: 20
 
-# Date published
-date: "2020-12-13T00:00:00Z"
 
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
-authors:
-- admin
-
-tags:
-- Academic
-
-categories:
-- Demo
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
