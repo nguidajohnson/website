@@ -1,4 +1,5 @@
 ---
+widget: research
 title: Lorem Ipsum
 subtitle: Lorem Ipsum
 
