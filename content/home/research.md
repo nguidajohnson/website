@@ -1,6 +1,5 @@
 ---
-title: Lorem Ipsum
-subtitle: Lorem Ipsum
+title: Working Papers
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -22,11 +21,6 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: false
-  focal_point: ""
-  placement: 2
-  preview_only: false
 
 authors:
 - admin
