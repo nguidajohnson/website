@@ -1,10 +1,8 @@
 ---
 widget: research
-title: Lorem Ipsum
-subtitle: Lorem Ipsum
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Informality and Development: the Role of Infrastructure in Reducing Self-Employment.
 
 # Link this post with a project
 projects: []
