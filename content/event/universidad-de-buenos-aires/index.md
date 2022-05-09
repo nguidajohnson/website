@@ -2,8 +2,8 @@
 title: Universidad de Buenos Aires
 abstract: ...
 location: Buenos Aires, Argentina
-date: 2022-05-04T18:03:00.000Z
-date_end: 2022-05-09T18:03:29.967Z
+date: '""'
+date_end: '""'
 all_day: false
 event: Instructor
 event_url: '""'
