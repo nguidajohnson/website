@@ -15,7 +15,7 @@ image:
   preview_only: true
 date: 2022-05-09T11:31:09.666Z
 _build:
-  list: always
+  list: never
   publishResources: true
   render: never
 ---
