@@ -10,5 +10,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-
-Add any content here - text, images, videos, galleries - and even HTML code!
+Boston University
+<ul>
+  <li>EC101</li>
+  <li>EC201</li>
+  <li>EC203</li>
+</ul>
