@@ -11,18 +11,8 @@ design:
   columns: '2'
 ---
 <div class="section-subheading article-title mb-0 mt-0">
-Hello
+Boston University
+
+Universidad de Buenos Aires
 </div>
 
-<b><font size="+1">This is bigger text.</font></b>
-
-<b><font size="+2">This is bigger text.</font></b>
-
-<b><font size="+3">This is bigger text.</font></b>
-
-Boston University
-<ul>
-  <li>EC101</li>
-  <li>EC201</li>
-  <li>EC203</li>
-</ul>
