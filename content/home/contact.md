@@ -3,7 +3,7 @@ widget: contact
 headless: true 
 
 title: Contact
-subtitle: ''
+subtitle:
 weight: 100
 
 content:
