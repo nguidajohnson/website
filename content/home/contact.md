@@ -1,3 +1,4 @@
+---
 widget: contact
 headless: true  # This file represents a page section.
 
@@ -23,3 +24,4 @@ content:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
+---
