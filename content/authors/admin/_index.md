@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Nicolas Guida-Johnson
+title: Nicolas 
+subtitle: Guida-Johnson
 
 # Is this the primary user of the site?
 superuser: true
