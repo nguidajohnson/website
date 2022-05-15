@@ -1,6 +1,6 @@
 ---
 title: "Informality and Development: the Role of Infrastructure in Reducing
-  Informality"
+  Self-Employment"
 publication_types:
   - "3"
 authors:
