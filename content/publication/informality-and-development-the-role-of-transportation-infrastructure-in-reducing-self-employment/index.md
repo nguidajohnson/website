@@ -1,12 +1,12 @@
 ---
 title: "Informality and Development: The Role of Transportation Infrastructure
   in Reducing Self-Employment"
-subtitle: Job Market Paper
+subtitle:
 publication_types:
   - "0"
 authors:
   - admin
-publication: Job Market Paper
+publication: <b>Job Market Paper</b>
 abstract: ""
 draft: false
 featured: false
