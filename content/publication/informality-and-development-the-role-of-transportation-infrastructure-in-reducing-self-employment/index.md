@@ -6,6 +6,7 @@ publication_types:
   - "0"
 authors:
   - admin
+publication: Job Market Paper
 draft: false
 featured: false
 image:
