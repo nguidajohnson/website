@@ -12,7 +12,6 @@ draft: false
 featured: false
 categories: []
 projects: []
-url_pdf: pdf/jmp_guidajohnson.pdf
 image:
   filename: featured
   focal_point: Smart
