@@ -6,6 +6,7 @@ authors:
   - admin
 draft: false
 featured: false
+url_pdf: "pdf/jmp_guidajohnson copy.pdf"
 image:
   filename: featured
   focal_point: Smart
