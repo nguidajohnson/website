@@ -19,6 +19,8 @@ Boston University
   <li>Intermediate Microeconomic Analysis | Spring 2020, 2021 | <i>Teaching Assistant</i> </li>
   <li>Introductory Microeconomic Analysis | Fall 2018, 2019, 2020 | <i>Teaching Assistant</i> </li>
 </ul>
+<i>Teaching evaluations available upon request</li>
+
 <div class="section-subheading article-title mb-0 mt-0">
 Universidad de Buenos Aires
 </div>
