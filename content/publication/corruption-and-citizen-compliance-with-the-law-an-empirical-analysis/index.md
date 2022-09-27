@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - admin
+publication: Working Paper
 draft: false
 featured: false
 image:
