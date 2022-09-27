@@ -11,8 +11,8 @@ design:
   columns: '2'
 ---
 <div class="section-subheading article-title mb-0 mt-0">
-Boston University (<i>Teaching evaluations available upon request</i>)
-</div> 
+Boston University </div> (<i>Teaching evaluations available upon request</i>)
+
   <ul>
   <li>Intermediate Microeconomic Analysis | Summer 2021 | <i>Instructor</i> </li>
   <li>Empirical Economics I | Fall 2021 | <i>Teaching Assistant</i> </li>
