@@ -3,6 +3,7 @@ title: "Automation and Gender: Implications for Occupational Segregation and the
   Gender Skill Gap"
 publication_types:
   - "0"
+publication: Working Paper
 authors:
   - Patricia Cortes
   - admin
