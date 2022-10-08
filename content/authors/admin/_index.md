@@ -14,7 +14,7 @@ organizations:
   url: https://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include development, labor and political economy.
+bio: I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
 
 # Interests to show in About widget
 interests:
@@ -73,8 +73,10 @@ social:
 
 I am a Ph.D. Candidate in Economics at Boston University. 
 
-My research interests fall into the fields of development economics, labor economics and political economy. 
+I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
 
 Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnson.pdf" "newtab" %}} CV{{% /staticref %}}.
+
+I am on the job market in the 2022-23 academic year.
