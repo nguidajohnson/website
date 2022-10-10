@@ -7,6 +7,7 @@ publication_types:
 authors:
   - admin
 publication: <b>Job Market Paper</b>
+url_pdf: "pdf/jmp_guidajohnson.pdf"
 abstract: I study the effects of improvements in transportation infrastructure
   on informality. To deal with endogeneity issues, I implement two complementary
   identification strategies. First, taking advantage of the staggered rollout of
