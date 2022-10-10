@@ -2,12 +2,9 @@
 title: "Informality and Development: The Role of Transportation Infrastructure
   in Reducing Self-Employment"
 subtitle: null
-publication_types:
-  - "0"
 authors:
   - admin
 publication: <b>Job Market Paper</b>
-url_pdf: "pdf/jmp_guidajohnson.pdf"
 abstract: I study the effects of improvements in transportation infrastructure
   on informality. To deal with endogeneity issues, I implement two complementary
   identification strategies. First, taking advantage of the staggered rollout of
@@ -22,6 +19,9 @@ abstract: I study the effects of improvements in transportation infrastructure
   for formal employment. These results suggest that better transportation
   infrastructure induces the growth and development of the formal sector.
 draft: false
+url_pdf: pdf/jmp_guidajohnson.pdf
+publication_types:
+  - "0"
 featured: false
 categories: []
 projects: []
@@ -29,5 +29,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-09-16T23:07:13.182Z
+date: 2022-09-16T23:07:00.000Z
 ---
