@@ -77,6 +77,6 @@ I am an applied microeconomist working in development, labor, and political econ
 
 Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
 
-{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnson.pdf" "newtab" %}} CV{{% /staticref %}}.
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
 I am on the job market in the 2022-23 academic year.
