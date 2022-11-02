@@ -14,6 +14,7 @@ design:
 Boston University </div> (<i>Teaching evaluations available upon request</i>)
 
   <ul>
+  <li>Intermediate Macroeconomic Analysis | Summer 2022 | <i>Instructor</i> </li>
   <li>Intermediate Microeconomic Analysis | Summer 2021 | <i>Instructor</i> </li>
   <li>Empirical Economics I | Fall 2021 | <i>Teaching Assistant</i> </li>
   <li>Intermediate Microeconomic Analysis | Spring 2020, 2021 | <i>Teaching Assistant</i> </li>
