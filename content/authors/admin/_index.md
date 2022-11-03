@@ -79,4 +79,4 @@ Before joining Boston University, I was a Research Fellow at the Inter-American 
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
-I am on the job market in the 2022-23 academic year.
+I am on the job market in the 2022-23 academic year. I will be available for interviews at the American Economic Association meetings in January 2023 as well as the European Economic Association meetings in December 2022.
