@@ -6,7 +6,7 @@ title: Nicolas Guida-Johnson
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: Ph.D. Candidate in Economics
     institution: Boston University
-    year: expected 2023
+    year: 2023
   - course: M.S. in Economics
     institution: Universidad de San Andres
     year: 2014
@@ -71,12 +71,14 @@ social:
 # highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Economics at Boston University. 
-
 I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
+
+I my PhD in Economics from Boston University. 
 
 Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
 
+In <b>Fall 2023</b>, I will join the Economics Department at Pontificia Universidad Javeriana as an Assistant Professor.
+
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
-In Fall 2023, I will join the Economics Department at Pontificia Universidad Javeriana as an Assistant Professor. 
+ 
