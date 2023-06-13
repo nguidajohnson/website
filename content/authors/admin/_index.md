@@ -73,7 +73,7 @@ social:
 
 I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
 
-I my PhD in Economics from Boston University. 
+I obtained my PhD in Economics from Boston University. 
 
 Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
 
