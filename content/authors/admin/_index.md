@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Candidate in Economics
+  - course: Ph.D. in Economics
     institution: Boston University
     year: 2023
   - course: M.S. in Economics
