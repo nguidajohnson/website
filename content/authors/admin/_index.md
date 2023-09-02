@@ -14,7 +14,7 @@ organizations:
   url: https://www.bu.edu/econ/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
+bio: I am an Assistant Professor of Economics at Pontificia Universidad Javeriana.
 
 # Interests to show in About widget
 interests:
@@ -71,13 +71,9 @@ social:
 # highlight_name: true
 ---
 
+I am an Assistant Professor in the Economics Department at Pontificia Universidad Javeriana. 
+
 I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
-
-I obtained my PhD in Economics from Boston University. 
-
-Before joining Boston University, I was a Research Fellow at the Inter-American Development Bank (IADB).
-
-In <b>Fall 2023</b>, I will join the Economics Department at Pontificia Universidad Javeriana as an Assistant Professor.
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
