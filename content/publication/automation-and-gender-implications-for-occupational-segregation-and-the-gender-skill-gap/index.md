@@ -23,10 +23,8 @@ abstract: >-
   markets more susceptible to automation saw larger increases in the share of
   young women completing college relative to men and a greater movement of women
   into occupations with high math and high social skill requirements.  
-
-
-  <b>Draft coming soon!</b>
 draft: false
+url_pdf: pdf/paper_dec2023_final.pdf
 featured: false
 image:
   filename: null
