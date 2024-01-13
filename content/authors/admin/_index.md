@@ -6,12 +6,12 @@ title: Nicolas Guida-Johnson
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Economics
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Boston University
-  url: https://www.bu.edu/econ/
+- name: Pontificia Universidad Javeriana
+  url: https://www.javeriana.edu.co
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an Assistant Professor of Economics at Pontificia Universidad Javeriana.
