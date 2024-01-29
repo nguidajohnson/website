@@ -24,10 +24,10 @@ email: nguida@javeriana.edu.co
 address:
   street: Cra. 7 Calle 40 B-36
   city: Bogotá
-  region: ''
+  region: 'Colombia'
   postcode: ''
   country: Colombia
-  country_code: ''
+  country_code: 'CO'
 
 # Site header
 
