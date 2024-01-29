@@ -12,7 +12,7 @@ content:
   address:
     street: Cra. 7 #40 B-36, Bogotá, Colombia
     city: Bogota
-    region: 
+    region: ''
     postcode: ''
     country: Colombia
     country_code: CO
