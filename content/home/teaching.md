@@ -14,7 +14,7 @@ design:
 Pontificia Universidad Javeriana </div> 
 
   <ul>
-  <li>Intermediate Macroeconomics | Fall 2023-Present | <i>Instructor</i> </li>
+  <li>Intermediate Microeconomics | Fall 2023-Present | <i>Instructor</i> </li>
   <li>Advanced Econometrics | Spring 2024-Present | <i>Instructor</i> </li>
 </ul>
 
