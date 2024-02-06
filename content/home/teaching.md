@@ -11,7 +11,15 @@ design:
   columns: '2'
 ---
 <div class="section-subheading article-title mb-0 mt-0">
-Boston University </div> (<i>Teaching evaluations available upon request</i>)
+Pontificia Universidad Javeriana </div> 
+
+  <ul>
+  <li>Intermediate Macroeconomics | Fall 2023-Present | <i>Instructor</i> </li>
+  <li>Advanced Econometrics | Spring 2024-Present | <i>Instructor</i> </li>
+</ul>
+
+<div class="section-subheading article-title mb-0 mt-0">
+Boston University </div> 
 
   <ul>
   <li>Intermediate Macroeconomic Analysis | Summer 2022 | <i>Instructor</i> </li>
