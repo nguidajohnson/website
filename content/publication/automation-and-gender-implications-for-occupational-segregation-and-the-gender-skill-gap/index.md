@@ -1,13 +1,13 @@
 ---
 title: "Automation and Gender: Implications for Occupational Segregation and the
   Gender Skill Gap"
-subtitle: Revise and Resubmit, Journal of Labor Economics
+subtitle: ""
 authors:
   - Patricia Cortés
   - Ying Feng
   - admin
   - Jessica Pan
-publication: rr
+publication: <i>Revise and Resubmit, Journal of Labor Economics</i>
 abstract: "We examine the contribution of automation to occupational gender
   segregation and to the gender gap in college education. First, we document
   that women were more likely to be displaced by automation. Then, exploiting
