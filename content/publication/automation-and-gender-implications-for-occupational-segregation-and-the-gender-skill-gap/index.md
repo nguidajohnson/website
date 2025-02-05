@@ -4,7 +4,7 @@ title: "Automation and Gender: Implications for Occupational Segregation and the
 publication_types:
   - "0"
 authors:
-  - Patricia Cortes
+  - Patricia Cortés
   - Ying Feng
   - admin
   - Jessica Pan
