@@ -1,6 +1,7 @@
 ---
 title: "Automation and Gender: Implications for Occupational Segregation and the
   Gender Skill Gap"
+subtitle: Revise and Resubmit, Journal of Labor Economics
 authors:
   - Patricia Cortés
   - Ying Feng
