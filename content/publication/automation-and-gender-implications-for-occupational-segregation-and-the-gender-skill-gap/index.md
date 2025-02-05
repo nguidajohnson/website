@@ -8,6 +8,7 @@ authors:
   - Ying Feng
   - admin
   - Jessica Pan
+  - <i>Revise and Resubmit, Journal of Labor Economics</i>
 publication: Working Paper
 abstract: >-
   We examine the contribution of automation to occupational gender segregation
