@@ -1,7 +1,5 @@
 ---
 title: "Corruption and Traffic Offenses: An Empirical Analysis"
-authors:
-  - admin
 abstract: Do revelations of corruption lead to an increase in traffic offenses?
   To address this question, I leverage Brazil's anti-corruption program,
   Programa de Fiscalização em Entes Federativos por Sorteios Públicos, which
@@ -16,7 +14,10 @@ abstract: Do revelations of corruption lead to an increase in traffic offenses?
 draft: false
 url_pdf: pdf/corruption_feb2025.pdf
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - admin
+publication: Working Paper
 featured: false
 image:
   filename: featured
