@@ -17,6 +17,7 @@ abstract: Do revelations of corruption lead to an increase in traffic offenses?
   cultural factors rather than by political corruption.
 draft: true
 featured: false
+url_pdf: pdf/corruption_feb2025.pdf
 image:
   filename: featured
   focal_point: Smart
