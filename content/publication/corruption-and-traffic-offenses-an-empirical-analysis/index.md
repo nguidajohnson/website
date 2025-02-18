@@ -1,7 +1,5 @@
 ---
 title: "Corruption and Traffic Offenses: An Empirical Analysis"
-publication_types:
-  - "0"
 authors:
   - admin
 abstract: Do revelations of corruption lead to an increase in traffic offenses?
@@ -15,9 +13,11 @@ abstract: Do revelations of corruption lead to an increase in traffic offenses?
   punished or reelected. These results suggest that adherence to traffic rules
   is more likely driven by individual risk preferences and broader social and
   cultural factors rather than by political corruption.
-draft: true
-featured: false
+draft: false
 url_pdf: pdf/corruption_feb2025.pdf
+publication_types:
+  - "0"
+featured: false
 image:
   filename: featured
   focal_point: Smart
