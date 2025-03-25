@@ -14,9 +14,9 @@ design:
 Working Papers </div> 
 
   <ul>
-  <li>Applied Economics | Fall 2024-Present | <i>Instructor</i> </li>
-  <li>Advanced Econometrics | Spring 2024-Present | <i>Instructor</i> </li>
-  <li>Intermediate Microeconomics | Fall 2023-Spring 2024 | <i>Instructor</i> </li>
+  <li>Corruption and Traffic Offenses: An Empirical Analysis
+  <li>Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment
+  <li>Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap, with Patricia Cortés, Ying Feng, and Jessica Pan
 </ul>
 
 
