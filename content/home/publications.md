@@ -16,7 +16,7 @@ Working Papers </div>
   <ul>
   <li>Corruption and Traffic Offenses: An Empirical Analysis
   <li>Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment
-  <li> {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap {{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan
+  <li> {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap{{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan
 </ul>
 
 
