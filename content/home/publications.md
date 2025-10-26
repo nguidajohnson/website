@@ -11,12 +11,18 @@ design:
   columns: '2'
 ---
 <div class="section-subheading article-title mb-0 mt-0">
+Publications </div> 
+
+<ul>
+  <li> {{% staticref "pdf/paper_dec2023_final.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap{{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan (<i>Accepted, Journal of Labor Economics</i>)
+</ul>
+
+<div class="section-subheading article-title mb-0 mt-0">
 Working Papers </div> 
 
   <ul>
   <li> {{% staticref "pdf/Corruption_TrafficOffenses.pdf" "newtab" %}} Corruption and Traffic Offenses: An Empirical Analysis{{% /staticref %}}
   <li> {{% staticref "pdf/jmp_guidajohnson.pdf" "newtab" %}} Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment {{% /staticref %}}
-  <li> {{% staticref "pdf/paper_dec2023_final.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap{{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan (<i>Revise and Resubmit, Journal of Labor Economics</i>)
 </ul>
 
 <div class="section-subheading article-title mb-0 mt-0">
