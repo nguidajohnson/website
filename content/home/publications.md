@@ -14,7 +14,7 @@ design:
 Publications </div> 
 
 <ul>
-  <li> {{% staticref "pdf/paper_dec2023_final.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap{{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan (<i>Accepted, Journal of Labor Economics</i>)
+  <li> {{% staticref "pdf/paper_dec2023_final.pdf" "newtab" %}} Automation and Gender: Implications for Occupational Segregation and the Gender Skill Gap{{% /staticref %}}, with Patricia Cortés, Ying Feng, and Jessica Pan (<i>Forthcoming, Journal of Labor Economics</i>)
 </ul>
 
 <div class="section-subheading article-title mb-0 mt-0">
@@ -29,8 +29,8 @@ Working Papers </div>
 Work in Progress </div> 
 
 <ul>
-  <li>Economic Crisis, Mental Health and Risky Behavior
-  <li>Poverty, Human Capital, and Unemployment, with Alonso Ahumada Paras, Martin Fiszbein and Mahesh Karra
-  <li>Unemployment Benefits and Job Search, with Diego Astorga and Leonardo Morales  
+  <li>Evaluating Unemployment Insurance in a Developing Economy: Evidence from Colombia, with Diego Astorga and Leonardo Morales
+  <li>Poverty, Human Capital, and Unemployment, with Alonso Ahumada Paras, Martin Fiszbein and Mahesh Karra  
   <li>Internet Access and Informality: Evidence from Brazil  
+  <li>Economic Crisis, Mental Health and Risky Behavior
 </ul>
