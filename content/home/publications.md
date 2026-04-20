@@ -23,13 +23,13 @@ Working Papers </div>
   <ul>
   <li> {{% staticref "pdf/Corruption_TrafficOffenses.pdf" "newtab" %}} Corruption and Traffic Offenses: An Empirical Analysis{{% /staticref %}}
   <li> {{% staticref "pdf/jmp_guidajohnson.pdf" "newtab" %}} Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment {{% /staticref %}}
+  <li> {{% staticref "pdf/Cesante_april2026.pdf" "newtab" %}} Evaluating Unemployment Insurance in a Developing Economy: Evidence from Colombia{{% /staticref %}}, with Diego Astorga and Leonardo Morales
 </ul>
 
 <div class="section-subheading article-title mb-0 mt-0">
 Work in Progress </div> 
 
 <ul>
-  <li>Evaluating Unemployment Insurance in a Developing Economy: Evidence from Colombia, with Diego Astorga and Leonardo Morales
   <li>Poverty, Human Capital, and Unemployment, with Alonso Ahumada Paras, Martin Fiszbein and Mahesh Karra  
   <li>Internet Access and Informality: Evidence from Brazil  
   <li>Economic Crisis, Mental Health and Risky Behavior
