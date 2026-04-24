@@ -21,7 +21,7 @@ Publications </div>
 Working Papers </div> 
 
   <ul>
-  <li> {{% staticref "pdf/Corruption_TrafficOffenses.pdf" "newtab" %}} Corruption and Traffic Offenses: An Empirical Analysis{{% /staticref %}}
+  <li> {{% staticref "pdf/corruption_traffic_brazil2025.pdf" "newtab" %}} Do Revelations of Political Corruption Erode Citizens’ Compliance with the Law?{{% /staticref %}}
   <li> Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment (<i>New draft available soon</i>)
   <li> {{% staticref "pdf/Cesante_april2026.pdf" "newtab" %}} Evaluating Unemployment Insurance in a Developing Economy: Evidence from Colombia{{% /staticref %}}, with Diego Astorga and Leonardo Morales
 </ul>
