@@ -32,6 +32,7 @@ Work in Progress </div>
 
 <ul>
   <li>Poverty, Human Capital, and Unemployment, with Alonso Ahumada Paras, Martin Fiszbein and Mahesh Karra  
+  <li>Climate Shocks and Informal Transitions, with Minoru Higa 
   <li>Internet Access and Informality: Evidence from Brazil  
   <li>Economic Crisis, Mental Health and Risky Behavior
 </ul>
