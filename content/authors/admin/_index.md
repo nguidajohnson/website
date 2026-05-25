@@ -71,9 +71,9 @@ social:
 # highlight_name: true
 ---
 
-I am an Assistant Professor in the Economics Department at Pontificia Universidad Javeriana. 
+I am an Assistant Professor in the Department of Economics at Pontificia Universidad Javeriana and Director of the PhD Program in Economics.
 
-I am an applied microeconomist working in development, labor, and political economy. Recent areas of research include how infrastructure affects informality, the role of automation in reducing occupational segregation in the US, and the effects of the disclosure of corruption cases on citizens' compliance with the law. 
+My research lies at the intersection of development economics, labor economics, and political economy. I use applied microeconomic methods to study how institutions, public policies, and structural change shape economic behavior and social outcomes in Latin America and beyond.
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
