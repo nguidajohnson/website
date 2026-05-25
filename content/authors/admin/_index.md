@@ -73,7 +73,7 @@ social:
 
 I am an Assistant Professor in the Department of Economics at Pontificia Universidad Javeriana and Director of the PhD Program in Economics.
 
-My research lies at the intersection of development economics, labor economics, and political economy. I use applied microeconomic methods to study how institutions, public policies, and structural change shape economic behavior and social outcomes in Latin America and beyond.
+My research lies at the intersection of development economics, labor economics, and political economy. I use applied microeconomic methods to study how institutions, public policies, and structural change shape economic behavior and social outcomes.
 
 {{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/CV_GuidaJohnsonNicolas.pdf" "newtab" %}} CV{{% /staticref %}}.
 
