@@ -24,7 +24,7 @@ Working Papers </div>
   <li> {{% staticref "pdf/corruption_traffic_brazil2025.pdf" "newtab" %}} Do Revelations of Political Corruption Erode Citizens’ Compliance with the Law?{{% /staticref %}}
   <li> Informality and Development: The Role of Transportation Infrastructure in Reducing Self-Employment (<i>New draft available soon</i>)
   <li> {{% staticref "pdf/Cesante_april2026.pdf" "newtab" %}} Evaluating Unemployment Insurance in a Developing Economy: Evidence from Colombia{{% /staticref %}}, with Diego Astorga and Leonardo Morales
-   <li> {{% staticref "pdf/trust_latam_web.pdf" "newtab" %}} Gender and Institutional Trust in Latin America and the Caribbean{{% /staticref %}}
+   <li> {{% staticref "pdf/trust_latam_web.pdf" "newtab" %}} Gender, Representative Bureaucracy, and Institutional Trust in Latin America and the Caribbean{{% /staticref %}}
 </ul>
 
 <div class="section-subheading article-title mb-0 mt-0">
